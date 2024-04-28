@@ -1,0 +1,3 @@
+[submodule "jocke.fi/themes/anatole"]
+	path = jocke.fi/themes/anatole
+	url = git@github.com:joakimnordling/anatole_hugo_theme.git

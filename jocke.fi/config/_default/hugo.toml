@@ -1,0 +1,4 @@
+baseURL = 'https://jocke.fi/'
+languageCode = 'en-us'
+title = 'Jocke - Joakim Nordling'
+theme = 'anatole'
