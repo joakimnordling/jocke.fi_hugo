@@ -6,12 +6,17 @@ draft = false
 +++
 
 ## Postiosoite
-Joakim Nordling  
-Meripoiju 3 B 14  
+
+```
+Joakim Nordling
+Meripoiju 3 B 14
 02320 Espoo
+```
 
 ## Puhelin
+
 +358 40 557 3238
 
 ## Sähköposti
+
 joakim.nordling@gmail.com
