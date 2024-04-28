@@ -6,7 +6,7 @@ draft = false
 
 <!-- ## Etusivu
 
-Kerään vielä motivaatiote varsinaisen sisällön luomiseksi.
+Kerään vielä motivaatiota varsinaisen sisällön luomiseksi.
 
 Rekisteröin alunperin tämän verkkotunnuksen itselleni 16.11.2007 ja en oikein koskaan
 päässyt yhteystietoja pidemmälle sisällön suhteen. Siirryin nyt (28.4.2024) käyttämään
