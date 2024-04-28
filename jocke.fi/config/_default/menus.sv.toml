@@ -1,0 +1,11 @@
+[[main]]
+name = "Framsidan"
+identifier = "home"
+weight = 100
+pageRef = "/"
+
+[[main]]
+name = "Kontaktuppgifter"
+identifier = "contact"
+weight = 200
+pageRef = "/kontaktuppgifter/"

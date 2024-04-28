@@ -1,0 +1,11 @@
+[[main]]
+name = "Etusivu"
+identifier = "home"
+weight = 100
+pageRef = "/"
+
+[[main]]
+name = "Yhteystiedot"
+identifier = "contact"
+weight = 200
+pageRef = "/yhteystiedot/"

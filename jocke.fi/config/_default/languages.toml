@@ -1,0 +1,20 @@
+[en]
+title = "Jocke - Joakim Nordling"
+weight = 1
+LanguageName = "EN"
+contentDir = "content/en"
+
+
+[sv]
+title = "Jocke - Joakim Nordling - På svenska"
+weight = 2
+LanguageName = "SV"
+contentDir = "content/sv"
+
+
+[fi]
+title = "Jocke - Joakim Nordling - Suomeksi"
+weight = 3
+LanguageName = "FI"
+contentDir = "content/fi"
+
