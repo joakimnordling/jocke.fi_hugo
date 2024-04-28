@@ -1,11 +1,12 @@
 [[main]]
-name = "Etusivu"
+#name = "Etusivu"
+name = "Yhteystiedot"
 identifier = "home"
 weight = 100
 pageRef = "/"
 
-[[main]]
-name = "Yhteystiedot"
-identifier = "contact"
-weight = 200
-pageRef = "/yhteystiedot/"
+# [[main]]
+# name = "Yhteystiedot"
+# identifier = "contact"
+# weight = 200
+# pageRef = "/yhteystiedot/"

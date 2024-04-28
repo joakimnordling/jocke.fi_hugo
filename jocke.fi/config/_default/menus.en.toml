@@ -1,11 +1,12 @@
 [[main]]
-name = "Home"
+# name = "Home"
+name = "Contact"
 identifier = "home"
 weight = 100
 pageRef = "/"
 
-[[main]]
-name = "Contact"
-identifier = "contact"
-weight = 200
-pageRef = "/contact"
+# [[main]]
+# name = "Contact"
+# identifier = "contact"
+# weight = 200
+# pageRef = "/contact"

@@ -1,11 +1,12 @@
 [[main]]
-name = "Framsidan"
+# name = "Framsidan"
+name = "Kontaktuppgifter"
 identifier = "home"
 weight = 100
 pageRef = "/"
 
-[[main]]
-name = "Kontaktuppgifter"
-identifier = "contact"
-weight = 200
-pageRef = "/kontaktuppgifter/"
+# [[main]]
+# name = "Kontaktuppgifter"
+# identifier = "contact"
+# weight = 200
+# pageRef = "/kontaktuppgifter/"
