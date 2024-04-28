@@ -4,7 +4,7 @@ author = "Joakim Nordling"
 description = "Joakim Nordling"
 profilePicture = "images/jocke_square.jpg"
 keywords = ""
-#favicon = "/favicon.ico"
+favicon = "favicons/"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
