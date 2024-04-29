@@ -1,5 +1,5 @@
 [[main]]
-#name = "Etusivu"
+# name = "Etusivu"
 name = "Yhteystiedot"
 identifier = "home"
 weight = 100
