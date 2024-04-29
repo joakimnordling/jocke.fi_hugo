@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jocke
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jocke.fi
+  * I am jocke (https://keybase.io/jocke) on keybase.
+  * I have a public key ASBml3OZbi78HCc84mgvlcLo-PIxkj2H5ACDKOzKedPEpgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01014cf5a3a45f1a9898ab7aa56a360046ba70576a9e32c3578007a9177948028af30a",
+      "host": "keybase.io",
+      "kid": "0120669773996e2efc1c273ce2682f95c2e8f8f231923d87e4008328ecca79d3c4a60a",
+      "uid": "73e61c812fc61e1490587503ddba2d19",
+      "username": "jocke"
+    },
+    "merkle_root": {
+      "ctime": 1714417311,
+      "hash": "16361e24f4e54a59fffa0e42a49689e0084ff5119552d1f4b78b29ecc06b586fc6408a01c3402e071ff734ab4d2cb46b62670a07b17c17c398430599f32f4719",
+      "hash_meta": "6e7e1934362e9280eeb5072acbe0821d129f5c5b071027977af85d7692ababb9",
+      "seqno": 25685654
+    },
+    "service": {
+      "entropy": "ne7557b/5GReDxbnkT5iB4zW",
+      "hostname": "jocke.fi",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.8"
+  },
+  "ctime": 1714417337,
+  "expire_in": 504576000,
+  "prev": "1f7479ece14c3d1547353ac104080ecb4b827e603908c677d31603429f654f92",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZpdzmW4u/BwnPOJoL5XC6PjyMZI9h+QAgyjsynnTxKYKp3BheWxvYWTESpcCEsQgH3R57OFMPRVHNTrBBAgOy0uCfmA5CMZ30xYDQp9lT5LEIPRZm5Ke7G4M/+k1rFq8Ozpy/2c+GMhL2ctXe91kyBy7AgHCo3NpZ8RA6CytN+3q80AUAJU6y3vwTS08+wUybteRtgaKUQkxyahfs8NMFbLOZCl2OyKRGpf8WNnttvtHp4TAnL67rPdZAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJFr+Bf7ZqsQ5+NzbVlfN03xfNElCL7bSgFnKXPzaC9To3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jocke
+
+==================================================================
